@@ -1,0 +1,15 @@
+F:\Sistemas\Externos\MHInventario\Portable\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario\Portable\bin\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario\Portable\obj\Release\Portable.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario\Portable\obj\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario\Portable\obj\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Portable\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Portable\bin\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Portable\obj\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Portable\obj\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Portable\obj\Release\Portable.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Portable\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Portable\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Portable\obj\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Portable\obj\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Portable\obj\Release\Portable.csprojResolveAssemblyReference.cache

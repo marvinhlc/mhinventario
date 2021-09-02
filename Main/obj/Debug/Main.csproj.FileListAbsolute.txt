@@ -1,0 +1,152 @@
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\bin\Debug\Main.exe.config
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\bin\Debug\Main.exe
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\bin\Debug\Main.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\obj\Debug\Main.mdiPrincipal.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\obj\Debug\Main.Properties.Resources.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\obj\Debug\Main.exe
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\obj\Debug\Main.pdb
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Main\bin\Debug\Main.exe.config
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Main\obj\Debug\Main.exe
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Main\obj\Debug\Main.pdb
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Main\obj\Debug\Main.mdiPrincipal.resources
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Main\obj\Debug\Main.Properties.Resources.resources
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\bin\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\bin\Debug\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\bin\Debug\DataLayer.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\bin\Debug\DataLayer.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\bin\Debug\Implementacion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\bin\Debug\SharedDataPool.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\bin\Debug\Implementacion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Main\bin\Debug\SharedDataPool.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.mdiPrincipal.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.Properties.Resources.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Main.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\DataLayer.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\DataLayer.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Main.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Empleados.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Empleados.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Main.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Main.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Empleados.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Empleados.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.mdiPrincipal.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.Properties.Resources.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Debug\Main.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\SharedDataPool.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\DataManager.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Herramientas.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\SharedDataPool.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\DataManager.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Debug\Herramientas.pdb
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Main.dll
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Main.pdb
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Empleados.dll
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Productos.dll
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Sesion.dll
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Ventas.dll
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\EntityManager.dll
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\DataManager.dll
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\SharedDataPool.dll
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Herramientas.dll
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Empleados.pdb
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Productos.pdb
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Sesion.pdb
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Ventas.pdb
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\EntityManager.pdb
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\DataManager.pdb
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\SharedDataPool.pdb
+D:\Repositorios\Personal\AstraBusiness\Main\bin\Debug\Herramientas.pdb
+D:\Repositorios\Personal\AstraBusiness\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Repositorios\Personal\AstraBusiness\Main\obj\Debug\Main.mdiPrincipal.resources
+D:\Repositorios\Personal\AstraBusiness\Main\obj\Debug\Main.Properties.Resources.resources
+D:\Repositorios\Personal\AstraBusiness\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+D:\Repositorios\Personal\AstraBusiness\Main\obj\Debug\Main.dll
+D:\Repositorios\Personal\AstraBusiness\Main\obj\Debug\Main.pdb
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Main.dll
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Main.pdb
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Empleados.dll
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Productos.dll
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Sesion.dll
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Ventas.dll
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\EntityManager.dll
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\DataManager.dll
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\SharedDataPool.dll
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Herramientas.dll
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Empleados.pdb
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Productos.pdb
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Sesion.pdb
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Ventas.pdb
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\EntityManager.pdb
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\DataManager.pdb
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\SharedDataPool.pdb
+F:\MHSistemas\Cascaron\ast\Main\bin\Debug\Herramientas.pdb
+F:\MHSistemas\Cascaron\ast\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+F:\MHSistemas\Cascaron\ast\Main\obj\Debug\Main.mdiPrincipal.resources
+F:\MHSistemas\Cascaron\ast\Main\obj\Debug\Main.Properties.Resources.resources
+F:\MHSistemas\Cascaron\ast\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+F:\MHSistemas\Cascaron\ast\Main\obj\Debug\Main.dll
+F:\MHSistemas\Cascaron\ast\Main\obj\Debug\Main.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Debug\Main.dll
+F:\MHSistemas\Pizzeria\Main\bin\Debug\Main.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Debug\Sesion.dll
+F:\MHSistemas\Pizzeria\Main\bin\Debug\Sesion.pdb
+F:\MHSistemas\Pizzeria\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+F:\MHSistemas\Pizzeria\Main\obj\Debug\Main.mdiPrincipal.resources
+F:\MHSistemas\Pizzeria\Main\obj\Debug\Main.Properties.Resources.resources
+F:\MHSistemas\Pizzeria\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+F:\MHSistemas\Pizzeria\Main\obj\Debug\Main.dll
+F:\MHSistemas\Pizzeria\Main\obj\Debug\Main.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Debug\EntityManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Debug\DataManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Debug\Herramientas.dll
+F:\MHSistemas\Pizzeria\Main\bin\Debug\EntityManager.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Debug\DataManager.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Debug\Herramientas.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Debug\OperacionesManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Debug\OperacionesManager.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Debug\ModelosManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Debug\ModelosManager.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Debug\MantenimientosManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Debug\MantenimientosManager.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Debug\Estilos.dll
+F:\MHSistemas\Pizzeria\Main\bin\Debug\Estilos.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Debug\ReportesManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Debug\ReportesManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\Main.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\Main.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\EntityManager.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\Estilos.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\Sesion.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\VistasManager.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\ModelosManager.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\EntityManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\Estilos.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\Sesion.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\VistasManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Debug\ModelosManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Debug\Main.mdiPrincipal.resources
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Debug\Main.Properties.Resources.resources
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Debug\Main.dll
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Debug\Main.pdb

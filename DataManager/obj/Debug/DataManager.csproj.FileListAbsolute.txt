@@ -1,0 +1,38 @@
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\bin\Debug\DataManager.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\bin\Debug\DataManager.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\bin\Debug\Herramientas.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\bin\Debug\Herramientas.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\obj\Debug\DataManager.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\obj\Debug\DataManager.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\bin\Debug\DataManager.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\bin\Debug\DataManager.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\bin\Debug\Herramientas.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\bin\Debug\Herramientas.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\obj\Debug\DataManager.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\obj\Debug\DataManager.pdb
+D:\Repositorios\Personal\AstraBusiness\DataManager\bin\Debug\DataManager.dll
+D:\Repositorios\Personal\AstraBusiness\DataManager\bin\Debug\DataManager.pdb
+D:\Repositorios\Personal\AstraBusiness\DataManager\bin\Debug\Herramientas.dll
+D:\Repositorios\Personal\AstraBusiness\DataManager\bin\Debug\MySql.Data.dll
+D:\Repositorios\Personal\AstraBusiness\DataManager\bin\Debug\Herramientas.pdb
+D:\Repositorios\Personal\AstraBusiness\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\Repositorios\Personal\AstraBusiness\DataManager\obj\Debug\DataManager.dll
+D:\Repositorios\Personal\AstraBusiness\DataManager\obj\Debug\DataManager.pdb
+F:\MHSistemas\Pizzeria\DataManager\bin\Debug\DataManager.dll
+F:\MHSistemas\Pizzeria\DataManager\bin\Debug\DataManager.pdb
+F:\MHSistemas\Pizzeria\DataManager\bin\Debug\Herramientas.dll
+F:\MHSistemas\Pizzeria\DataManager\bin\Debug\MySql.Data.dll
+F:\MHSistemas\Pizzeria\DataManager\bin\Debug\Herramientas.pdb
+F:\MHSistemas\Pizzeria\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+F:\MHSistemas\Pizzeria\DataManager\obj\Debug\DataManager.dll
+F:\MHSistemas\Pizzeria\DataManager\obj\Debug\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\DataManager\bin\Debug\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\DataManager\bin\Debug\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\DataManager\bin\Debug\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\DataManager\bin\Debug\MySql.Data.dll
+F:\Repositorios\MHInventario\MHInventario\DataManager\bin\Debug\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\MHInventario\DataManager\obj\Debug\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\DataManager\obj\Debug\DataManager.pdb

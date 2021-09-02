@@ -1,0 +1,17 @@
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\bin\Debug\Estilos.dll
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\bin\Debug\Estilos.pdb
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Debug\Estilos.FormMantenimiento.resources
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Debug\Estilos.csproj.GenerateResource.Cache
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Debug\Estilos.dll
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Debug\Estilos.pdb
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Debug\Estilos.FormEditores.resources
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Debug\Estilos.FormDialogos.resources
+F:\Repositorios\MHInventario\MHInventario\Estilos\bin\Debug\Estilos.dll
+F:\Repositorios\MHInventario\MHInventario\Estilos\bin\Debug\Estilos.pdb
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Debug\Estilos.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Debug\Estilos.FormDialogos.resources
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Debug\Estilos.FormEditores.resources
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Debug\Estilos.FormMantenimiento.resources
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Debug\Estilos.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Debug\Estilos.dll
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Debug\Estilos.pdb

@@ -1,0 +1,366 @@
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Main.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Main.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Empleados.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\SharedDataPool.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\DataManager.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Herramientas.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Empleados.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\SharedDataPool.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\DataManager.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Herramientas.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Release\Main.mdiPrincipal.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Release\Main.Properties.Resources.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Release\Main.csproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Release\Main.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\obj\Release\Main.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Evaluacion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Evaluacion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\EntityManager.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\EntityManager.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Contratos.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\Contratos.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\AForge.Video.DirectShow.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Main\bin\Release\AForge.Video.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Main.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Main.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Empleados.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Sesion.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\SharedDataPool.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Herramientas.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\DataManager.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\EntityManager.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Empleados.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Sesion.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\SharedDataPool.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Herramientas.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\DataManager.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\EntityManager.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.mdiPrincipal.resources
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.Properties.Resources.resources
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.csproj.GenerateResource.Cache
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Productos.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Productos.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Main.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Main.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Empleados.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Productos.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Sesion.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\EntityManager.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\DataManager.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\SharedDataPool.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Herramientas.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Empleados.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Productos.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Sesion.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\EntityManager.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\DataManager.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\SharedDataPool.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Herramientas.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.mdiPrincipal.resources
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.Properties.Resources.resources
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.csproj.GenerateResource.Cache
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Ventas.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Ventas.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Ventas.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Ventas.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Main.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Main.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Empleados.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Productos.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Sesion.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Ventas.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\EntityManager.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\DataManager.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\SharedDataPool.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Herramientas.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Empleados.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Productos.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Sesion.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Ventas.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\EntityManager.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\DataManager.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\SharedDataPool.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\bin\Release\Herramientas.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.mdiPrincipal.resources
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.Properties.Resources.resources
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.csproj.GenerateResource.Cache
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Main\obj\Release\Main.pdb
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Main.dll
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Main.pdb
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Empleados.dll
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Productos.dll
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Sesion.dll
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Ventas.dll
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\EntityManager.dll
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\DataManager.dll
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\SharedDataPool.dll
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Herramientas.dll
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Empleados.pdb
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Productos.pdb
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Sesion.pdb
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Ventas.pdb
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\EntityManager.pdb
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\DataManager.pdb
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\SharedDataPool.pdb
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\bin\Release\Herramientas.pdb
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\obj\Release\Main.mdiPrincipal.resources
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\obj\Release\Main.Properties.Resources.resources
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\obj\Release\Main.csproj.GenerateResource.Cache
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\obj\Release\Main.dll
+F:\JORGE\Documentos\Repositorio\AstraBusiness\Main\obj\Release\Main.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Release\Main.dll
+F:\MHSistemas\Pizzeria\Main\bin\Release\Main.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Release\Estilos.dll
+F:\MHSistemas\Pizzeria\Main\bin\Release\Herramientas.dll
+F:\MHSistemas\Pizzeria\Main\bin\Release\MantenimientosManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Release\OperacionesManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Release\Sesion.dll
+F:\MHSistemas\Pizzeria\Main\bin\Release\EntityManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Release\ModelosManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Release\DataManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Release\ReportesManager.dll
+F:\MHSistemas\Pizzeria\Main\bin\Release\Herramientas.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Release\MantenimientosManager.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Release\Estilos.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Release\OperacionesManager.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Release\Sesion.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Release\EntityManager.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Release\ModelosManager.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Release\DataManager.pdb
+F:\MHSistemas\Pizzeria\Main\bin\Release\ReportesManager.pdb
+F:\MHSistemas\Pizzeria\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+F:\MHSistemas\Pizzeria\Main\obj\Release\Main.mdiPrincipal.resources
+F:\MHSistemas\Pizzeria\Main\obj\Release\Main.Properties.Resources.resources
+F:\MHSistemas\Pizzeria\Main\obj\Release\Main.csproj.GenerateResource.Cache
+F:\MHSistemas\Pizzeria\Main\obj\Release\Main.dll
+F:\MHSistemas\Pizzeria\Main\obj\Release\Main.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Release\Main.mdiPrincipal.resources
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Release\Main.Properties.Resources.resources
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Release\Main.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Release\Main.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\Main.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\Main.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\EntityManager.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\Estilos.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\Sesion.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\VistasManager.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\EntityManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\Estilos.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\Sesion.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\VistasManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\bin\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Main\obj\Release\Main.pdb
+F:\Repositorios\MHInventario\Main\bin\Release\Main.dll
+F:\Repositorios\MHInventario\Main\bin\Release\Main.pdb
+F:\Repositorios\MHInventario\Main\bin\Release\EntityManager.dll
+F:\Repositorios\MHInventario\Main\bin\Release\Estilos.dll
+F:\Repositorios\MHInventario\Main\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\Main\bin\Release\Sesion.dll
+F:\Repositorios\MHInventario\Main\bin\Release\VistasManager.dll
+F:\Repositorios\MHInventario\Main\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\Main\bin\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\Main\bin\Release\EntityManager.pdb
+F:\Repositorios\MHInventario\Main\bin\Release\Estilos.pdb
+F:\Repositorios\MHInventario\Main\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\Main\bin\Release\Sesion.pdb
+F:\Repositorios\MHInventario\Main\bin\Release\VistasManager.pdb
+F:\Repositorios\MHInventario\Main\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\Main\bin\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\Main\obj\Release\Main.mdiPrincipal.resources
+F:\Repositorios\MHInventario\Main\obj\Release\Main.Properties.Resources.resources
+F:\Repositorios\MHInventario\Main\obj\Release\Main.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\Main\obj\Release\Main.dll
+F:\Repositorios\MHInventario\Main\obj\Release\Main.pdb
+F:\Repositorios\MHInventario\Main\bin\Release\Main.dll.config
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\Main.dll
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\Main.pdb
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\Estilos.dll
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\Sesion.dll
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario\Main\obj\Release\Main.mdiPrincipal.resources
+F:\Sistemas\Externos\MHInventario\Main\obj\Release\Main.Properties.Resources.resources
+F:\Sistemas\Externos\MHInventario\Main\obj\Release\Main.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario\Main\obj\Release\Main.dll
+F:\Sistemas\Externos\MHInventario\Main\obj\Release\Main.pdb
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario\Main\bin\Release\Portable.pdb
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\Main.dll
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\Main.pdb
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\DataManager.dll
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\EntityManager.dll
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\Estilos.dll
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\Herramientas.dll
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\Sesion.dll
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\VistasManager.dll
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\Portable.dll
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\ModelosManager.dll
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\DataManager.pdb
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\EntityManager.pdb
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\Estilos.pdb
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\Herramientas.pdb
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\Sesion.pdb
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\VistasManager.pdb
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\Portable.pdb
+C:\MHSistemas\MHInventarioPO\Main\bin\Release\ModelosManager.pdb
+C:\MHSistemas\MHInventarioPO\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+C:\MHSistemas\MHInventarioPO\Main\obj\Release\Main.CambiarPeriodo.resources
+C:\MHSistemas\MHInventarioPO\Main\obj\Release\Main.mdiPrincipal.resources
+C:\MHSistemas\MHInventarioPO\Main\obj\Release\Main.Properties.Resources.resources
+C:\MHSistemas\MHInventarioPO\Main\obj\Release\Main.csproj.GenerateResource.Cache
+C:\MHSistemas\MHInventarioPO\Main\obj\Release\Main.dll
+C:\MHSistemas\MHInventarioPO\Main\obj\Release\Main.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\obj\Release\Main.CambiarPeriodo.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\obj\Release\Main.mdiPrincipal.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\obj\Release\Main.Properties.Resources.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\obj\Release\Main.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\Main.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\Main.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\Estilos.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\Sesion.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\obj\Release\Main.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Main\obj\Release\Main.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\obj\Release\Main.CambiarPeriodo.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\obj\Release\Main.Licencia.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\obj\Release\Main.mdiPrincipal.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\obj\Release\Main.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\obj\Release\Main.Resource1.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\obj\Release\Main.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Main.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Main.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Backup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Estilos.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Migracion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\MySqlBackup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Backup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Migracion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\MySqlBackup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\obj\Release\Main.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Main\obj\Release\Main.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Main.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Main.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Backup.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\DataManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\EntityManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Estilos.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Herramientas.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Migracion.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Portable.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Sesion.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\VistasManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\MySqlBackup.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\ModelosManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Backup.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\DataManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\EntityManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Estilos.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Herramientas.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Migracion.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Portable.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\Sesion.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\VistasManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\MySqlBackup.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\bin\Release\ModelosManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\obj\Release\Main.CambiarPeriodo.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\obj\Release\Main.Licencia.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\obj\Release\Main.mdiPrincipal.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\obj\Release\Main.Properties.Resources.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\obj\Release\Main.Resource1.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\obj\Release\Main.csproj.GenerateResource.Cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\obj\Release\Main.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Main\obj\Release\Main.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Main.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Main.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Backup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Estilos.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Migracion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\MySqlBackup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Backup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Migracion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\MySqlBackup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\obj\Release\Main.CambiarPeriodo.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\obj\Release\Main.Licencia.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\obj\Release\Main.mdiPrincipal.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\obj\Release\Main.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\obj\Release\Main.Resource1.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\obj\Release\Main.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\obj\Release\Main.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Main\obj\Release\Main.pdb

@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{845D688C-B0D8-4549-93EF-F601A21D8C10}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Main</RootNamespace>
+    <AssemblyName>Main</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CambiarPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambiarPeriodo.Designer.cs">
+      <DependentUpon>CambiarPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Licencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Licencia.Designer.cs">
+      <DependentUpon>Licencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mdiPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdiPrincipal.Designer.cs">
+      <DependentUpon>mdiPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CambiarPeriodo.resx">
+      <DependentUpon>CambiarPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Licencia.resx">
+      <DependentUpon>Licencia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mdiPrincipal.resx">
+      <DependentUpon>mdiPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Resource1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Backup\Backup.csproj">
+      <Project>{420f38cf-b599-45ab-87db-6ff2bed69f50}</Project>
+      <Name>Backup</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataManager\DataManager.csproj">
+      <Project>{0215fddc-b1ef-4e39-85e5-86ae01375326}</Project>
+      <Name>DataManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntityManager\EntityManager.csproj">
+      <Project>{a0b6a3f3-399b-4ad8-928d-ce83504e8515}</Project>
+      <Name>EntityManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Estilos\Estilos.csproj">
+      <Project>{f5e8569b-940b-497d-bd57-83b71f9ecde8}</Project>
+      <Name>Estilos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Herramientas\Herramientas.csproj">
+      <Project>{704d6d91-1860-45f0-933b-b39603b070a5}</Project>
+      <Name>Herramientas</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Migracion\Migracion.csproj">
+      <Project>{c7664019-3265-41ab-ab6f-fe316ad0c053}</Project>
+      <Name>Migracion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Portable\Portable.csproj">
+      <Project>{943e160c-0317-4229-aa59-923fa72ad480}</Project>
+      <Name>Portable</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sesion\Sesion.csproj">
+      <Project>{ffc1cb8b-30de-46ad-b1d0-b03ecb6c1440}</Project>
+      <Name>Sesion</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\VistasManager\VistasManager.csproj">
+      <Project>{a9447b94-84c2-4081-9186-006f84147e59}</Project>
+      <Name>VistasManager</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_dns_64075.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_drive_network_35995.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_globe_network_93057.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_network_cloud_93210.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_network_clouds_93211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_network_firewall_93213.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_network_folder_64489.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_network_hub_93214.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_network_ip_93215.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_network_wireless_93216.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

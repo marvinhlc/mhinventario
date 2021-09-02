@@ -1,0 +1,147 @@
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Facturacion e Inventario\Sesion\bin\Debug\Sesion.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Facturacion e Inventario\Sesion\bin\Debug\Sesion.pdb
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Facturacion e Inventario\Sesion\obj\Debug\ResolveAssemblyReference.cache
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Facturacion e Inventario\Sesion\obj\Debug\Sesion.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Facturacion e Inventario\Sesion\obj\Debug\Sesion.pdb
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Facturacion e Inventario\Sesion\bin\Debug\MySql.Data.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema Integrado de Gestion de Informacion Municipal\Sesion\bin\Debug\Sesion.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema Integrado de Gestion de Informacion Municipal\Sesion\bin\Debug\Sesion.pdb
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema Integrado de Gestion de Informacion Municipal\Sesion\bin\Debug\MySql.Data.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema Integrado de Gestion de Informacion Municipal\Sesion\obj\Debug\Sesion.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema Integrado de Gestion de Informacion Municipal\Sesion\obj\Debug\Sesion.pdb
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\bin\Debug\Sesion.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\bin\Debug\Sesion.pdb
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\bin\Debug\MySql.Data.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\obj\Debug\Sesion.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\obj\Debug\Sesion.pdb
+D:\Mis documentos\Mis proyectos\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\bin\Debug\Sesion.dll
+D:\Mis documentos\Mis proyectos\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\bin\Debug\Sesion.pdb
+D:\Mis documentos\Mis proyectos\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\bin\Debug\MySql.Data.dll
+D:\Mis documentos\Mis proyectos\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\obj\Debug\Sesion.dll
+D:\Mis documentos\Mis proyectos\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\obj\Debug\Sesion.pdb
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema de Registro Academico\Sesion\bin\Debug\Sesion.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema de Registro Academico\Sesion\bin\Debug\Sesion.pdb
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema de Registro Academico\Sesion\bin\Debug\MySql.Data.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema de Registro Academico\Sesion\obj\Debug\Sesion.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema de Registro Academico\Sesion\obj\Debug\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Debug\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Debug\MySql.Data.dll
+D:\Documentos\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\obj\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\obj\Debug\Sesion.pdb
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Debug\Sesion.dll
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Debug\Sesion.pdb
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Debug\MySql.Data.dll
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Debug\Sesion.dll
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Debug\Sesion.pdb
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Debug\Sesion.GUI.frmLogin.resources
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Debug\Sesion.GUI.Splash.resources
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Debug\Sesion.csproj.GenerateResource.Cache
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Debug\Ripper.dll
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Debug\DataLayer.dll
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Debug\Ripper.pdb
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Debug\DataLayer.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\obj\Debug\Sesion.GUI.frmLogin.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\obj\Debug\Sesion.GUI.Splash.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\obj\Debug\Sesion.Properties.Resources.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\obj\Debug\Sesion.csproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\obj\Debug\Sesion.dll
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Sesion\obj\Debug\Sesion.GUI.frmLogin.resources
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Sesion\obj\Debug\Sesion.GUI.Splash.resources
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Sesion\obj\Debug\Sesion.Properties.Resources.resources
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Sesion\obj\Debug\Sesion.csproj.GenerateResource.Cache
+E:\Marvin\Dropbox\Dropbox\USO\Core\Sistema\Sesion\obj\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\bin\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\bin\Debug\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\bin\Debug\MySql.Data.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\obj\Debug\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\bin\Debug\DataLayer.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema\Sesion\bin\Debug\DataLayer.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\DataLayer.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\MySql.Data.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\DataLayer.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.GUI.frmLogin.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.GUI.Splash.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.Properties.Resources.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.csproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\MySql.Data.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.GUI.frmLogin.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.GUI.Splash.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.Properties.Resources.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.csproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.pdb
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.GUI.frmLogin.resources
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.GUI.Splash.resources
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.Properties.Resources.resources
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.csproj.GenerateResource.Cache
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Debug\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\DataManager.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\SharedDataPool.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\Herramientas.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\DataManager.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\SharedDataPool.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Debug\Herramientas.pdb
+D:\Repositorios\Personal\AstraBusiness\Sesion\bin\Debug\Sesion.dll
+D:\Repositorios\Personal\AstraBusiness\Sesion\bin\Debug\Sesion.pdb
+D:\Repositorios\Personal\AstraBusiness\Sesion\bin\Debug\DataManager.dll
+D:\Repositorios\Personal\AstraBusiness\Sesion\bin\Debug\MySql.Data.dll
+D:\Repositorios\Personal\AstraBusiness\Sesion\bin\Debug\SharedDataPool.dll
+D:\Repositorios\Personal\AstraBusiness\Sesion\bin\Debug\Herramientas.dll
+D:\Repositorios\Personal\AstraBusiness\Sesion\bin\Debug\DataManager.pdb
+D:\Repositorios\Personal\AstraBusiness\Sesion\bin\Debug\SharedDataPool.pdb
+D:\Repositorios\Personal\AstraBusiness\Sesion\bin\Debug\Herramientas.pdb
+D:\Repositorios\Personal\AstraBusiness\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+D:\Repositorios\Personal\AstraBusiness\Sesion\obj\Debug\Sesion.GUI.frmLogin.resources
+D:\Repositorios\Personal\AstraBusiness\Sesion\obj\Debug\Sesion.GUI.Splash.resources
+D:\Repositorios\Personal\AstraBusiness\Sesion\obj\Debug\Sesion.Properties.Resources.resources
+D:\Repositorios\Personal\AstraBusiness\Sesion\obj\Debug\Sesion.csproj.GenerateResource.Cache
+D:\Repositorios\Personal\AstraBusiness\Sesion\obj\Debug\Sesion.dll
+D:\Repositorios\Personal\AstraBusiness\Sesion\obj\Debug\Sesion.pdb
+F:\MHSistemas\Pizzeria\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+F:\MHSistemas\Pizzeria\Sesion\obj\Debug\Sesion.GUI.frmLogin.resources
+F:\MHSistemas\Pizzeria\Sesion\obj\Debug\Sesion.GUI.Splash.resources
+F:\MHSistemas\Pizzeria\Sesion\obj\Debug\Sesion.Properties.Resources.resources
+F:\MHSistemas\Pizzeria\Sesion\obj\Debug\Sesion.csproj.GenerateResource.Cache
+F:\MHSistemas\Pizzeria\Sesion\obj\Debug\Sesion.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Debug\Sesion.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Debug\Sesion.pdb
+F:\MHSistemas\Pizzeria\Sesion\bin\Debug\DataManager.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Debug\MySql.Data.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Debug\Herramientas.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Debug\DataManager.pdb
+F:\MHSistemas\Pizzeria\Sesion\bin\Debug\Herramientas.pdb
+F:\MHSistemas\Pizzeria\Sesion\obj\Debug\Sesion.pdb
+F:\MHSistemas\Pizzeria\Sesion\bin\Debug\EntityManager.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Debug\EntityManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Debug\Sesion.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Debug\Sesion.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Debug\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Debug\EntityManager.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Debug\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Debug\ModelosManager.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Debug\MySql.Data.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Debug\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Debug\EntityManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Debug\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Debug\ModelosManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Debug\Sesion.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Debug\Sesion.GUI.frmLogin.resources
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Debug\Sesion.GUI.Splash.resources
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Debug\Sesion.Properties.Resources.resources
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Debug\Sesion.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Debug\Sesion.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Debug\Sesion.pdb

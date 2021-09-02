@@ -1,0 +1,600 @@
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\VistasManager.dll
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\VistasManager.pdb
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\EntityManager.dll
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\Estilos.dll
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\EntityManager.pdb
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\Estilos.pdb
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\MHInventario\VistasManager\obj\Release\VistasManager.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoProductos.resources
+F:\Repositorios\MHInventario\MHInventario\VistasManager\obj\Release\VistasManager.UI.UsuariosManager.resources
+F:\Repositorios\MHInventario\MHInventario\VistasManager\obj\Release\VistasManager.UI.UsuariosManagerEditor.resources
+F:\Repositorios\MHInventario\MHInventario\VistasManager\obj\Release\VistasManager.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\MHInventario\VistasManager\obj\Release\VistasManager.dll
+F:\Repositorios\MHInventario\MHInventario\VistasManager\obj\Release\VistasManager.pdb
+F:\Repositorios\MHInventario\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosEditor.resources
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\Sesion.dll
+F:\Repositorios\MHInventario\MHInventario\VistasManager\bin\Release\Sesion.pdb
+F:\Repositorios\MHInventario\VistasManager\bin\Release\VistasManager.dll
+F:\Repositorios\MHInventario\VistasManager\bin\Release\VistasManager.pdb
+F:\Repositorios\MHInventario\VistasManager\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\VistasManager\bin\Release\EntityManager.dll
+F:\Repositorios\MHInventario\VistasManager\bin\Release\Estilos.dll
+F:\Repositorios\MHInventario\VistasManager\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\VistasManager\bin\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\VistasManager\bin\Release\Sesion.dll
+F:\Repositorios\MHInventario\VistasManager\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\VistasManager\bin\Release\EntityManager.pdb
+F:\Repositorios\MHInventario\VistasManager\bin\Release\Estilos.pdb
+F:\Repositorios\MHInventario\VistasManager\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\VistasManager\bin\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\VistasManager\bin\Release\Sesion.pdb
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoProductos.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosEditor.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.UsuariosManager.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.UsuariosManagerEditor.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.dll
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.pdb
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.Properties.Resources.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosRelaciones.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonas.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonasEditor.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegasEditor.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegas.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoCategorias.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoCategoriasEditor.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategorias.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategoriasEditor.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradas.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasEditor.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasGuardar.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.InventarioExistencias.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.UsuariosPassword.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.VistaPrevia.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosInventario.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioEditor.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioGuardar.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidas.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasEditor.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasGuardar.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.PuntoVenta.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.BuscadorProductos.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.PuntoVentaFinalizar.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.PuntoVentaImpresion.resources
+F:\Repositorios\MHInventario\VistasManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\Repositorios\MHInventario\VistasManager\bin\Release\CrystalDecisions.ReportSource.dll
+F:\Repositorios\MHInventario\VistasManager\bin\Release\CrystalDecisions.Shared.dll
+F:\Repositorios\MHInventario\VistasManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoEntradas.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoSalidas.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.ReporteCatalogoProductos.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.CorteCaja.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosVentas.resources
+F:\Repositorios\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosVentasGuardar.resources
+F:\Repositorios\MHInventario\VistasManager\bin\Release\VistasManager.dll.config
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\CrystalDecisions.ReportSource.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\CrystalDecisions.Shared.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\Estilos.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\Sesion.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.BuscadorProductos.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoCategorias.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoCategoriasEditor.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.Properties.Resources.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegas.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegasEditor.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonas.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonasEditor.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoProductos.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosEditor.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosRelaciones.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategorias.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategoriasEditor.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.CorteCaja.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradas.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasEditor.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasGuardar.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosInventario.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioEditor.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioGuardar.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidas.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasEditor.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasGuardar.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosVentas.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.DocumentosVentasGuardar.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.InventarioExistencias.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.PuntoVenta.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.PuntoVentaFinalizar.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.PuntoVentaImpresion.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.ReporteCatalogoProductos.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoEntradas.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoSalidas.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.UsuariosManager.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.UsuariosManagerEditor.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.UsuariosPassword.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.UI.VistaPrevia.resources
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\obj\Release\VistasManager.pdb
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario\VistasManager\bin\Release\Portable.pdb
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\VistasManager.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\VistasManager.pdb
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\CrystalDecisions.ReportSource.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\CrystalDecisions.Shared.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\DataManager.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\EntityManager.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\Estilos.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\Herramientas.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\ModelosManager.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\Sesion.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\Portable.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\DataManager.pdb
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\EntityManager.pdb
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\Estilos.pdb
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\Herramientas.pdb
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\ModelosManager.pdb
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\Sesion.pdb
+C:\MHSistemas\MHInventarioPO\VistasManager\bin\Release\Portable.pdb
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.csprojResolveAssemblyReference.cache
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosPrecios.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoProveedores.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.BuscadorProductos.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoCategorias.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoCategoriasEditor.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.Properties.Resources.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegas.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegasEditor.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoClientes.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonas.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonasEditor.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoProductos.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosEditor.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosRelaciones.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategorias.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategoriasEditor.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.CorteCaja.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.DocumentosCompras.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.DocumentosComprasEditor.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.DocumentosComprasGuardar.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.DocumentosInventario.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioEditor.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioGuardar.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidas.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasEditor.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasGuardar.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.DocumentosVentas.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.DocumentosVentasGuardar.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.InventarioExistencias.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.PuntoVenta.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.PuntoVentaFinalizar.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.PuntoVentaImpresion.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.ReporteCatalogoProductos.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.ReporteClientesProveedores.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoEntradas.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoSalidas.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.UsuariosManager.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.UsuariosManagerEditor.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.UsuariosPassword.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.VistaPrevia.resources
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.csproj.GenerateResource.Cache
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.dll
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.pdb
+C:\MHSistemas\MHInventarioPO\VistasManager\obj\Release\VistasManager.UI.BuscadorPersonas.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.BuscadorPersonas.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosPrecios.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoProveedores.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.BuscadorProductos.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoCategorias.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoCategoriasEditor.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.Properties.Resources.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegas.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegasEditor.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoClientes.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonas.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonasEditor.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoProductos.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosEditor.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosRelaciones.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategorias.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategoriasEditor.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CorteCaja.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosCompras.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosComprasEditor.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosComprasGuardar.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosInventario.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioEditor.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioGuardar.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidas.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasEditor.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasGuardar.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosVentas.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosVentasGuardar.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.InventarioExistencias.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.PuntoVenta.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.PuntoVentaFinalizar.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.PuntoVentaImpresion.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.ReporteCatalogoProductos.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.ReporteClientesProveedores.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoEntradas.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoSalidas.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.UsuariosManager.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.UsuariosManagerEditor.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.UsuariosPassword.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.VistaPrevia.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\CrystalDecisions.ReportSource.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\CrystalDecisions.Shared.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\Estilos.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\Sesion.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\bin\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.VentaTicket.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.VentaDevolucion.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.BuscadorDocumentos.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CorteCajaAdmin.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.CatalogoClientesPrecios.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.ListaPreciosProductos.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.ListaPreciosClientes.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.ReporteInventarioGeneral.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.ReporteKardex.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.VentaCambio.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosTraslados.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosTrasladosEditor.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosTrasladosGuardar.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\VistasManager\obj\Release\VistasManager.UI.DocumentosAnular.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.BuscadorDocumentos.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.BuscadorPersonas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.BuscadorVarios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoClientesPrecios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosPrecios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoProveedores.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.BuscadorProductos.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoCategorias.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoCategoriasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoClientes.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoProductos.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosRelaciones.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategorias.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategoriasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CorteCaja.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CorteCajaAdmin.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CuentasPorCobrar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CuentasPorCobrarAbonar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.CuentasPorCobrarMantenimiento.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosAnular.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosCompras.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosComprasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosComprasGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasPrecios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosInventario.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosTraslados.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosTrasladosEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosTrasladosGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosVentas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.DocumentosVentasGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.InventarioExistencias.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.Ordenes.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.OrdenesEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteCaja.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteFechaEntrega.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteGanancias.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteKardex.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ListaPreciosClientes.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ListaPreciosProductos.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.PuntoVenta.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.PuntoVentaFinalizar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.PuntoVentaImpresion.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteCatalogoProductos.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteClientesProveedores.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoEntradas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoSalidas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteInventarioGeneral.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteVentasCredito.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.UsuariosManager.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.UsuariosManagerEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.UsuariosPassword.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.VentaCambio.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.VentaDevolucion.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.VentaListaPrecios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.VentaServicios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.VentaTicket.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.VentaTicketComentario.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.VentaTicketFecha.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.VentaTicketImagenes.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.VistaPrevia.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\CrystalDecisions.ReportSource.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\CrystalDecisions.Shared.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\Estilos.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.OrdenesImagenes.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteCostura.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.GastosControl.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.GastosControlEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.GastosControlClasificaciones.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.GastosImprimir.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\VistasManager\obj\Release\VistasManager.UI.ReporteCosturaProduccion.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\VistasManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\VistasManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\DataManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\EntityManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\Estilos.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\Herramientas.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\ModelosManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\Portable.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\Sesion.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\DataManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\EntityManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\Estilos.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\Herramientas.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\ModelosManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\Portable.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\bin\Release\Sesion.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.BuscadorDocumentos.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.BuscadorPersonas.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.BuscadorVarios.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoClientesPrecios.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosPrecios.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoProveedores.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.BuscadorProductos.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoCategorias.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoCategoriasEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.Properties.Resources.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegas.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegasEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoClientes.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonas.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonasEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoProductos.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosRelaciones.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategorias.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategoriasEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CorteCaja.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CorteCajaAdmin.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CuentasPorCobrar.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CuentasPorCobrarAbonar.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CuentasPorCobrarMantenimiento.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosAnular.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosCompras.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosComprasEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosComprasGuardar.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradas.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasGuardar.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasPrecios.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosInventario.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioGuardar.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidas.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasGuardar.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosTraslados.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosTrasladosEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosTrasladosGuardar.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosVentas.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosVentasGuardar.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.GastosControl.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.GastosControlClasificaciones.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.GastosControlEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.GastosImprimir.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.InventarioExistencias.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.Ordenes.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.OrdenesEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.OrdenesImagenes.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteCaja.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteCostura.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteCosturaProduccion.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteFechaEntrega.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteGanancias.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteKardex.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ListaPreciosClientes.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ListaPreciosProductos.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.PuntoVenta.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.PuntoVentaFinalizar.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.PuntoVentaImpresion.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteCatalogoProductos.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteClientesProveedores.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoEntradas.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoSalidas.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteInventarioGeneral.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteVentasCredito.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.UsuariosManager.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.UsuariosManagerEditor.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.UsuariosPassword.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaCambio.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaDevolucion.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaListaPrecios.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaServicios.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaTicket.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaTicketComentario.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaTicketFecha.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaTicketImagenes.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VistaPrevia.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.csproj.GenerateResource.Cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\VistasManager\obj\Release\VistasManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\CrystalDecisions.ReportSource.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\CrystalDecisions.Shared.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\CrystalDecisions.Windows.Forms.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\Estilos.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.BuscadorDocumentos.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.BuscadorPersonas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.BuscadorVarios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoClientesPrecios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosPrecios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoProveedores.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.BuscadorProductos.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoCategorias.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoCategoriasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoBodegasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoClientes.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoPersonasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoProductos.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoProductosRelaciones.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategorias.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CatalogoSubcategoriasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CorteCaja.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CorteCajaAdmin.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CuentasPorCobrar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CuentasPorCobrarAbonar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.CuentasPorCobrarMantenimiento.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosAnular.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosCompras.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosComprasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosComprasGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosEntradasPrecios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosInventario.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosInventarioGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosSalidasGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosTraslados.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosTrasladosEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosTrasladosGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosVentas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.DocumentosVentasGuardar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.GastosControl.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.GastosControlClasificaciones.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.GastosControlEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.GastosImprimir.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.InventarioExistencias.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.Ordenes.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.OrdenesEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.OrdenesImagenes.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteCaja.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteCostura.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteCosturaProduccion.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteFechaEntrega.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteGanancias.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteKardex.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ListaPreciosClientes.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ListaPreciosProductos.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.PuntoVenta.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.PuntoVentaFinalizar.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.PuntoVentaImpresion.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteCatalogoProductos.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteClientesProveedores.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoEntradas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteDocumentoSalidas.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteInventarioGeneral.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.ReporteVentasCredito.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.UsuariosManager.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.UsuariosManagerEditor.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.UsuariosPassword.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaCambio.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaDevolucion.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaListaPrecios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaServicios.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaTicket.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaTicketComentario.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaTicketFecha.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VentaTicketImagenes.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.UI.VistaPrevia.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\VistasManager\obj\Release\VistasManager.pdb

@@ -1,0 +1,238 @@
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\MHInventario.exe.config
+F:\Repositorios\MHInventario\MHInventario\MHInventario\obj\Release\MHInventario.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\MHInventario\MHInventario\obj\Release\MHInventario.Properties.Resources.resources
+F:\Repositorios\MHInventario\MHInventario\MHInventario\obj\Release\MHInventario.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\MHInventario.exe
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\MHInventario.pdb
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\Estilos.dll
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\Main.dll
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\Sesion.dll
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\VistasManager.dll
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\EntityManager.dll
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\Estilos.pdb
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\Main.pdb
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\Sesion.pdb
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\VistasManager.pdb
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\EntityManager.pdb
+F:\Repositorios\MHInventario\MHInventario\MHInventario\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\MHInventario\obj\Release\MHInventario.exe
+F:\Repositorios\MHInventario\MHInventario\MHInventario\obj\Release\MHInventario.pdb
+F:\Repositorios\MHInventario\MHInventario\bin\Release\MHInventario.exe.config
+F:\Repositorios\MHInventario\MHInventario\obj\Release\MHInventario.exe
+F:\Repositorios\MHInventario\MHInventario\obj\Release\MHInventario.pdb
+F:\Repositorios\MHInventario\MHInventario\bin\Release\MHInventario.exe
+F:\Repositorios\MHInventario\MHInventario\bin\Release\MHInventario.pdb
+F:\Repositorios\MHInventario\MHInventario\bin\Release\Estilos.dll
+F:\Repositorios\MHInventario\MHInventario\bin\Release\Main.dll
+F:\Repositorios\MHInventario\MHInventario\bin\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\MHInventario\bin\Release\Sesion.dll
+F:\Repositorios\MHInventario\MHInventario\bin\Release\VistasManager.dll
+F:\Repositorios\MHInventario\MHInventario\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\bin\Release\EntityManager.dll
+F:\Repositorios\MHInventario\MHInventario\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\bin\Release\Estilos.pdb
+F:\Repositorios\MHInventario\MHInventario\bin\Release\Main.pdb
+F:\Repositorios\MHInventario\MHInventario\bin\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\MHInventario\bin\Release\Sesion.pdb
+F:\Repositorios\MHInventario\MHInventario\bin\Release\VistasManager.pdb
+F:\Repositorios\MHInventario\MHInventario\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\bin\Release\EntityManager.pdb
+F:\Repositorios\MHInventario\MHInventario\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\obj\Release\MHInventario.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\MHInventario\obj\Release\MHInventario.Properties.Resources.resources
+F:\Repositorios\MHInventario\MHInventario\obj\Release\MHInventario.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\MHInventario\bin\Release\MySql.Data.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\MHInventario.exe.config
+F:\Sistemas\Externos\MHInventario\MHInventario\obj\Release\MHInventario.exe
+F:\Sistemas\Externos\MHInventario\MHInventario\obj\Release\MHInventario.pdb
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\MHInventario.exe
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\MHInventario.pdb
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\Estilos.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\Main.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\Sesion.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\Main.pdb
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario\MHInventario\obj\Release\MHInventario.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario\MHInventario\obj\Release\MHInventario.Properties.Resources.resources
+F:\Sistemas\Externos\MHInventario\MHInventario\obj\Release\MHInventario.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\MySql.Data.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\MigracionManager.dll
+F:\Sistemas\Externos\MHInventario\MHInventario\bin\Release\MigracionManager.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\MHInventario.exe.config
+C:\MHSistemas\MHInventarioPO\MHInventario\obj\Release\MHInventario.exe
+C:\MHSistemas\MHInventarioPO\MHInventario\obj\Release\MHInventario.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\MHInventario.exe
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\MHInventario.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\Estilos.dll
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\Main.dll
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\MigracionManager.dll
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\ModelosManager.dll
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\MySql.Data.dll
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\Portable.dll
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\Sesion.dll
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\VistasManager.dll
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\Herramientas.dll
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\EntityManager.dll
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\DataManager.dll
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\Estilos.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\Main.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\MigracionManager.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\ModelosManager.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\Portable.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\Sesion.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\VistasManager.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\MySql.Data.xml
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\Herramientas.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\EntityManager.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\bin\Release\DataManager.pdb
+C:\MHSistemas\MHInventarioPO\MHInventario\obj\Release\MHInventario.csprojResolveAssemblyReference.cache
+C:\MHSistemas\MHInventarioPO\MHInventario\obj\Release\MHInventario.Properties.Resources.resources
+C:\MHSistemas\MHInventarioPO\MHInventario\obj\Release\MHInventario.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\obj\Release\MHInventario.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\obj\Release\MHInventario.Properties.Resources.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\obj\Release\MHInventario.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\MHInventario.exe.config
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\MHInventario.exe
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\MHInventario.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\Estilos.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\Main.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\MySql.Data.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\Sesion.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\Main.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\MySql.Data.xml
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\obj\Release\MHInventario.exe
+F:\Sistemas\Externos\MHInventario POTENCIADO\MHInventario\obj\Release\MHInventario.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\obj\Release\MHInventario.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\obj\Release\MHInventario.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\obj\Release\MHInventario.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\MHInventario.exe.config
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\MHInventario.exe
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\MHInventario.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Backup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Estilos.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Main.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Migracion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\MySql.Data.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\MySqlBackup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Backup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Main.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Migracion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\MySqlBackup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\MySql.Data.xml
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\obj\Release\MHInventario.exe
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MHInventario\obj\Release\MHInventario.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\MHInventario.exe.config
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\obj\Release\MHInventario.exe
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\obj\Release\MHInventario.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\MHInventario.exe
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\MHInventario.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Backup.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Estilos.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Main.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Migracion.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\ModelosManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\MySqlBackup.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Portable.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Sesion.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\VistasManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Herramientas.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\EntityManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\DataManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Backup.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Estilos.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Main.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Migracion.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\ModelosManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\MySqlBackup.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Portable.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Sesion.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\VistasManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\MySql.Data.xml
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\Herramientas.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\EntityManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\DataManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\obj\Release\MHInventario.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\obj\Release\MHInventario.Properties.Resources.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\obj\Release\MHInventario.csproj.GenerateResource.Cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\MHInventario\bin\Release\MySql.Data.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\MHInventario.exe.config
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\obj\Release\MHInventario.exe
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\obj\Release\MHInventario.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\MHInventario.exe
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\MHInventario.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Backup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Estilos.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Main.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Migracion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\MySql.Data.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\MySqlBackup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\VistasManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Backup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Main.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Migracion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\MySqlBackup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\VistasManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\MySql.Data.xml
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\obj\Release\MHInventario.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\obj\Release\MHInventario.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\MHInventario\obj\Release\MHInventario.csproj.GenerateResource.Cache

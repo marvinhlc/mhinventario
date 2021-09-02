@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="ReporteCaja" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="ReporteCaja" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tabla">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IDDocumento" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="Estacion" type="xs:string" minOccurs="0" />
+              <xs:element name="NumeroDocumento" type="xs:string" minOccurs="0" />
+              <xs:element name="FechaDocumento" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="FormaPago" type="xs:string" minOccurs="0" />
+              <xs:element name="Documento" type="xs:string" minOccurs="0" />
+              <xs:element name="Monto" type="xs:double" minOccurs="0" />
+              <xs:element name="TotalVenta" type="xs:double" minOccurs="0" />
+              <xs:element name="Efectivo" type="xs:double" minOccurs="0" />
+              <xs:element name="Cambio" type="xs:double" minOccurs="0" />
+              <xs:element name="Saldo" type="xs:double" minOccurs="0" />
+              <xs:element name="Abonos" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

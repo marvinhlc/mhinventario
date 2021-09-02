@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="InventarioGeneral" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="InventarioGeneral" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tabla">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IDProducto" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="CodigoProducto" type="xs:string" minOccurs="0" />
+              <xs:element name="NombreProducto" type="xs:string" minOccurs="0" />
+              <xs:element name="Categoria" type="xs:string" minOccurs="0" />
+              <xs:element name="SubCategoria" type="xs:string" minOccurs="0" />
+              <xs:element name="Presentacion" type="xs:string" minOccurs="0" />
+              <xs:element name="FormatoVenta" type="xs:string" minOccurs="0" />
+              <xs:element name="UltimoCosto" type="xs:double" minOccurs="0" />
+              <xs:element name="IDBodega" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="NombreBodega" type="xs:string" minOccurs="0" />
+              <xs:element name="Entradas" type="xs:double" minOccurs="0" />
+              <xs:element name="Salidas" type="xs:double" minOccurs="0" />
+              <xs:element name="ExistenciaActual" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

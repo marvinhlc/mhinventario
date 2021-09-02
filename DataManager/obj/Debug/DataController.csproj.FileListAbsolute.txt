@@ -1,0 +1,7 @@
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\bin\Debug\DataController.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\bin\Debug\DataController.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\obj\Debug\DataController.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\obj\Debug\DataController.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\obj\Debug\DataController.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\bin\Debug\Herramientas.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Core\Implementacion\DataController\bin\Debug\Herramientas.pdb

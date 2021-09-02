@@ -1,0 +1,5 @@
+D:\MarvinDeveloper\Sistemas\Investigacion\MHBackup\MHBackup\MySqlBackup\MySqlBackup\bin\Debug\MySqlBackup.dll
+D:\MarvinDeveloper\Sistemas\Investigacion\MHBackup\MHBackup\MySqlBackup\MySqlBackup\bin\Debug\MySqlBackup.pdb
+D:\MarvinDeveloper\Sistemas\Investigacion\MHBackup\MHBackup\MySqlBackup\MySqlBackup\obj\Debug\MySqlBackup.dll
+D:\MarvinDeveloper\Sistemas\Investigacion\MHBackup\MHBackup\MySqlBackup\MySqlBackup\obj\Debug\MySqlBackup.pdb
+D:\MarvinDeveloper\Sistemas\Investigacion\MHBackup\MHBackup\MySqlBackup\MySqlBackup\obj\Debug\MySqlBackup.csprojResolveAssemblyReference.cache

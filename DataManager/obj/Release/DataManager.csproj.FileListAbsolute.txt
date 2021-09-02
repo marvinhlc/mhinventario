@@ -1,0 +1,104 @@
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\bin\Release\DataManager.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\bin\Release\DataManager.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\bin\Release\Herramientas.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\bin\Release\Herramientas.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\obj\Release\DataManager.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\DataManager\obj\Release\DataManager.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\DataManager.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\DataManager.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\Herramientas.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\Herramientas.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\obj\Release\DataManager.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\obj\Release\DataManager.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\DataManager.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\DataManager.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\Herramientas.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\Herramientas.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\obj\Release\DataManager.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\obj\Release\DataManager.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\MySql.Data.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\DataManager.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\DataManager.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\Herramientas.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\MySql.Data.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\DataManager\bin\Release\Herramientas.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\DataManager\obj\Release\DataManager.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\DataManager\obj\Release\DataManager.pdb
+F:\MHSistemas\Pizzeria\DataManager\bin\Release\DataManager.dll
+F:\MHSistemas\Pizzeria\DataManager\bin\Release\DataManager.pdb
+F:\MHSistemas\Pizzeria\DataManager\bin\Release\Herramientas.dll
+F:\MHSistemas\Pizzeria\DataManager\bin\Release\MySql.Data.dll
+F:\MHSistemas\Pizzeria\DataManager\bin\Release\Herramientas.pdb
+F:\MHSistemas\Pizzeria\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+F:\MHSistemas\Pizzeria\DataManager\obj\Release\DataManager.dll
+F:\MHSistemas\Pizzeria\DataManager\obj\Release\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\DataManager\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\DataManager\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\DataManager\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\DataManager\bin\Release\MySql.Data.dll
+F:\Repositorios\MHInventario\MHInventario\DataManager\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\DataManager\obj\Release\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\DataManager\obj\Release\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\DataManager\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\DataManager\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\DataManager\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\DataManager\bin\Release\MySql.Data.dll
+F:\Repositorios\MHInventario\DataManager\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\DataManager\obj\Release\DataManager.dll
+F:\Repositorios\MHInventario\DataManager\obj\Release\DataManager.pdb
+F:\Repositorios\MHInventario\DataManager\bin\Release\DataManager.dll.config
+F:\Sistemas\Externos\MHInventario\DataManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario\DataManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario\DataManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario\DataManager\bin\Release\MySql.Data.dll
+F:\Sistemas\Externos\MHInventario\DataManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario\DataManager\obj\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario\DataManager\obj\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario\DataManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario\DataManager\bin\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario\DataManager\bin\Release\MySql.Data.xml
+C:\MHSistemas\MHInventarioPO\DataManager\bin\Release\DataManager.dll
+C:\MHSistemas\MHInventarioPO\DataManager\bin\Release\DataManager.pdb
+C:\MHSistemas\MHInventarioPO\DataManager\bin\Release\Herramientas.dll
+C:\MHSistemas\MHInventarioPO\DataManager\bin\Release\MySql.Data.dll
+C:\MHSistemas\MHInventarioPO\DataManager\bin\Release\Portable.dll
+C:\MHSistemas\MHInventarioPO\DataManager\bin\Release\Herramientas.pdb
+C:\MHSistemas\MHInventarioPO\DataManager\bin\Release\Portable.pdb
+C:\MHSistemas\MHInventarioPO\DataManager\bin\Release\MySql.Data.xml
+C:\MHSistemas\MHInventarioPO\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+C:\MHSistemas\MHInventarioPO\DataManager\obj\Release\DataManager.dll
+C:\MHSistemas\MHInventarioPO\DataManager\obj\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\DataManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\DataManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\DataManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\DataManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\DataManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\DataManager\bin\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\DataManager\obj\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\DataManager\obj\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\DataManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\DataManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\DataManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\DataManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\DataManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\DataManager\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\DataManager\obj\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\DataManager\obj\Release\DataManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\DataManager\obj\Release\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\DataManager\obj\Release\DataManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\DataManager\obj\Release\DataManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\DataManager\bin\Release\DataManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\DataManager\bin\Release\DataManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\DataManager\bin\Release\Herramientas.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\DataManager\bin\Release\Portable.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\DataManager\bin\Release\Herramientas.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\DataManager\bin\Release\Portable.pdb

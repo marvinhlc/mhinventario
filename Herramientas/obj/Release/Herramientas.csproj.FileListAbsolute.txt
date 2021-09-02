@@ -1,0 +1,46 @@
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Herramientas\bin\Release\Herramientas.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Herramientas\bin\Release\Herramientas.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Herramientas\obj\Release\Herramientas.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Herramientas\obj\Release\Herramientas.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Herramientas\bin\Release\Herramientas.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Herramientas\bin\Release\Herramientas.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Herramientas\obj\Release\Herramientas.csprojResolveAssemblyReference.cache
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Herramientas\obj\Release\Herramientas.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Herramientas\obj\Release\Herramientas.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Herramientas\bin\Release\Herramientas.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Herramientas\bin\Release\Herramientas.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Herramientas\obj\Release\Herramientas.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Herramientas\obj\Release\Herramientas.pdb
+F:\MHSistemas\Pizzeria\Herramientas\bin\Release\Herramientas.dll
+F:\MHSistemas\Pizzeria\Herramientas\bin\Release\Herramientas.pdb
+F:\MHSistemas\Pizzeria\Herramientas\obj\Release\Herramientas.dll
+F:\MHSistemas\Pizzeria\Herramientas\obj\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\Herramientas\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\Herramientas\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\Herramientas\obj\Release\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\Herramientas\obj\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\Herramientas\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\Herramientas\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\Herramientas\obj\Release\Herramientas.dll
+F:\Repositorios\MHInventario\Herramientas\obj\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\Herramientas\obj\Release\Herramientas.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario\Herramientas\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario\Herramientas\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario\Herramientas\obj\Release\Herramientas.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario\Herramientas\obj\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario\Herramientas\obj\Release\Herramientas.pdb
+C:\MHSistemas\MHInventarioPO\Herramientas\bin\Release\Herramientas.dll
+C:\MHSistemas\MHInventarioPO\Herramientas\bin\Release\Herramientas.pdb
+C:\MHSistemas\MHInventarioPO\Herramientas\obj\Release\Herramientas.csprojResolveAssemblyReference.cache
+C:\MHSistemas\MHInventarioPO\Herramientas\obj\Release\Herramientas.dll
+C:\MHSistemas\MHInventarioPO\Herramientas\obj\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Herramientas\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Herramientas\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Herramientas\obj\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Herramientas\obj\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Herramientas\obj\Release\Herramientas.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Herramientas\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Herramientas\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Herramientas\obj\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Herramientas\obj\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Herramientas\obj\Release\Herramientas.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\MySqlBackup\bin\Release\MySqlBackup.dll
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\MySqlBackup\bin\Release\MySqlBackup.pdb
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\MySqlBackup\obj\Release\MySqlBackup.csprojResolveAssemblyReference.cache
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\MySqlBackup\obj\Release\MySqlBackup.dll
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\MySqlBackup\obj\Release\MySqlBackup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MySqlBackup\bin\Release\MySqlBackup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MySqlBackup\bin\Release\MySqlBackup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MySqlBackup\obj\Release\MySqlBackup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MySqlBackup\obj\Release\MySqlBackup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\MySqlBackup\obj\Release\MySqlBackup.csprojResolveAssemblyReference.cache

@@ -1,0 +1,64 @@
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\bin\Release\Estilos.dll
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\bin\Release\Estilos.pdb
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Release\Estilos.FormDialogos.resources
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Release\Estilos.FormEditores.resources
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Release\Estilos.FormMantenimiento.resources
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Release\Estilos.csproj.GenerateResource.Cache
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Release\Estilos.dll
+F:\MHSistemas\Pizzeria\MhRestaurante\Estilos\obj\Release\Estilos.pdb
+F:\Repositorios\MHInventario\MHInventario\Estilos\bin\Release\Estilos.dll
+F:\Repositorios\MHInventario\MHInventario\Estilos\bin\Release\Estilos.pdb
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Release\Estilos.FormDialogos.resources
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Release\Estilos.FormEditores.resources
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Release\Estilos.FormMantenimiento.resources
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Release\Estilos.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Release\Estilos.dll
+F:\Repositorios\MHInventario\MHInventario\Estilos\obj\Release\Estilos.pdb
+F:\Repositorios\MHInventario\Estilos\bin\Release\Estilos.dll
+F:\Repositorios\MHInventario\Estilos\bin\Release\Estilos.pdb
+F:\Repositorios\MHInventario\Estilos\obj\Release\Estilos.FormDialogos.resources
+F:\Repositorios\MHInventario\Estilos\obj\Release\Estilos.FormEditores.resources
+F:\Repositorios\MHInventario\Estilos\obj\Release\Estilos.FormMantenimiento.resources
+F:\Repositorios\MHInventario\Estilos\obj\Release\Estilos.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\Estilos\obj\Release\Estilos.dll
+F:\Repositorios\MHInventario\Estilos\obj\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario\Estilos\bin\Release\Estilos.dll
+F:\Sistemas\Externos\MHInventario\Estilos\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario\Estilos\obj\Release\Estilos.FormDialogos.resources
+F:\Sistemas\Externos\MHInventario\Estilos\obj\Release\Estilos.FormEditores.resources
+F:\Sistemas\Externos\MHInventario\Estilos\obj\Release\Estilos.FormMantenimiento.resources
+F:\Sistemas\Externos\MHInventario\Estilos\obj\Release\Estilos.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario\Estilos\obj\Release\Estilos.dll
+F:\Sistemas\Externos\MHInventario\Estilos\obj\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario\Estilos\obj\Release\Estilos.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\Estilos\bin\Release\Estilos.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Estilos\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Estilos\obj\Release\Estilos.FormDialogos.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\Estilos\obj\Release\Estilos.FormEditores.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\Estilos\obj\Release\Estilos.FormMantenimiento.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\Estilos\obj\Release\Estilos.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\Estilos\obj\Release\Estilos.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Estilos\obj\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Estilos\obj\Release\Estilos.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Estilos\bin\Release\Estilos.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Estilos\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Estilos\obj\Release\Estilos.FormDialogos.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Estilos\obj\Release\Estilos.FormEditores.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Estilos\obj\Release\Estilos.FormMantenimiento.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Estilos\obj\Release\Estilos.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Estilos\obj\Release\Estilos.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Estilos\obj\Release\Estilos.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Estilos\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Estilos\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Estilos\obj\Release\Estilos.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Estilos\bin\Release\Estilos.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Estilos\bin\Release\Estilos.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Estilos\bin\Release\Herramientas.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Estilos\bin\Release\Herramientas.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Estilos\obj\Release\Estilos.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Estilos\obj\Release\Estilos.FormDialogos.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Estilos\obj\Release\Estilos.FormEditores.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Estilos\obj\Release\Estilos.FormMantenimiento.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Estilos\obj\Release\Estilos.csproj.GenerateResource.Cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Estilos\obj\Release\Estilos.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Estilos\obj\Release\Estilos.pdb

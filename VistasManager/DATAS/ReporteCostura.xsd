@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="ReporteCostura" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="ReporteCostura" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tabla">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="IDOrden" type="xs:unsignedInt" minOccurs="0" />
+              <xs:element name="NumeroOrden" type="xs:string" minOccurs="0" />
+              <xs:element name="NombreCliente" type="xs:string" minOccurs="0" />
+              <xs:element name="TipoPrenda" type="xs:string" minOccurs="0" />
+              <xs:element name="Institucion" type="xs:string" minOccurs="0" />
+              <xs:element name="TelefonoCliente" type="xs:string" minOccurs="0" />
+              <xs:element name="fecha_inicio" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="fecha_entrega" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="costurera_sastre" type="xs:string" minOccurs="0" />
+              <xs:element name="vendedor" type="xs:string" minOccurs="0" />
+              <xs:element name="total" type="xs:double" minOccurs="0" />
+              <xs:element name="abono" type="xs:double" minOccurs="0" />
+              <xs:element name="saldo" type="xs:double" minOccurs="0" />
+              <xs:element name="estado" type="xs:string" minOccurs="0" />
+              <xs:element name="comentario" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

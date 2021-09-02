@@ -1,0 +1,365 @@
+D:\Mis documentos\Mis proyectos\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\bin\Release\Sesion.dll
+D:\Mis documentos\Mis proyectos\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\bin\Release\Sesion.pdb
+D:\Mis documentos\Mis proyectos\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\bin\Release\MySql.Data.dll
+D:\Mis documentos\Mis proyectos\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\obj\Release\Sesion.dll
+D:\Mis documentos\Mis proyectos\Proyectos VS\Sistema Integrado de Gestion de Ventas e Inventarios\Sesion\obj\Release\Sesion.pdb
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema de Registro Academico\Sesion\bin\Release\Sesion.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema de Registro Academico\Sesion\bin\Release\Sesion.pdb
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema de Registro Academico\Sesion\bin\Release\MySql.Data.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema de Registro Academico\Sesion\obj\Release\Sesion.dll
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema de Registro Academico\Sesion\obj\Release\Sesion.pdb
+D:\Mis documentos\Desarrollo de Software\Proyectos VS\Sistema de Registro Academico\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\bin\Release\Sesion.dll
+D:\Mis documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\bin\Release\Sesion.pdb
+D:\Mis documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\bin\Release\MySql.Data.dll
+D:\Mis documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+D:\Mis documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\obj\Release\Sesion.dll
+D:\Mis documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\obj\Release\Sesion.pdb
+C:\Users\marvinhlc\Desktop\Version de JORGE\Ultima2\Sistema de Registro Academico\Sesion\bin\Release\Sesion.dll
+C:\Users\marvinhlc\Desktop\Version de JORGE\Ultima2\Sistema de Registro Academico\Sesion\bin\Release\Sesion.pdb
+C:\Users\marvinhlc\Desktop\Version de JORGE\Ultima2\Sistema de Registro Academico\Sesion\bin\Release\MySql.Data.dll
+C:\Users\marvinhlc\Desktop\Version de JORGE\Ultima2\Sistema de Registro Academico\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+C:\Users\marvinhlc\Desktop\Version de JORGE\Ultima2\Sistema de Registro Academico\Sesion\obj\Release\Sesion.dll
+C:\Users\marvinhlc\Desktop\Version de JORGE\Ultima2\Sistema de Registro Academico\Sesion\obj\Release\Sesion.pdb
+X:\Documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\bin\Release\Sesion.dll
+X:\Documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\bin\Release\Sesion.pdb
+X:\Documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\bin\Release\MySql.Data.dll
+X:\Documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+X:\Documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\obj\Release\Sesion.dll
+X:\Documentos\Dropbox\Desarrollo\Sistema de Registro Academico\Sesion\obj\Release\Sesion.pdb
+C:\Users\marvinhlc\Desktop\Unir sistemas registros\JORGE\Version con ingreso de notas\Sistema de Registro Academico\Sesion\bin\Release\Sesion.dll
+C:\Users\marvinhlc\Desktop\Unir sistemas registros\JORGE\Version con ingreso de notas\Sistema de Registro Academico\Sesion\bin\Release\Sesion.pdb
+C:\Users\marvinhlc\Desktop\Unir sistemas registros\JORGE\Version con ingreso de notas\Sistema de Registro Academico\Sesion\bin\Release\MySql.Data.dll
+C:\Users\marvinhlc\Desktop\Unir sistemas registros\JORGE\Version con ingreso de notas\Sistema de Registro Academico\Sesion\obj\Release\Sesion.dll
+C:\Users\marvinhlc\Desktop\Unir sistemas registros\JORGE\Version con ingreso de notas\Sistema de Registro Academico\Sesion\obj\Release\Sesion.pdb
+C:\Users\Marvin\Desktop\USO\Sistema de Registro Academico\Sesion\bin\Release\Sesion.dll
+C:\Users\Marvin\Desktop\USO\Sistema de Registro Academico\Sesion\bin\Release\Sesion.pdb
+C:\Users\Marvin\Desktop\USO\Sistema de Registro Academico\Sesion\bin\Release\MySql.Data.dll
+C:\Users\Marvin\Desktop\USO\Sistema de Registro Academico\Sesion\obj\Release\Sesion.dll
+C:\Users\Marvin\Desktop\USO\Sistema de Registro Academico\Sesion\obj\Release\Sesion.pdb
+C:\Users\marvinhlc\Desktop\USO Sistemas\Sistema de Registro Academico\Sesion\bin\Release\Sesion.dll
+C:\Users\marvinhlc\Desktop\USO Sistemas\Sistema de Registro Academico\Sesion\bin\Release\Sesion.pdb
+C:\Users\marvinhlc\Desktop\USO Sistemas\Sistema de Registro Academico\Sesion\bin\Release\MySql.Data.dll
+C:\Users\marvinhlc\Desktop\USO Sistemas\Sistema de Registro Academico\Sesion\obj\Release\Sesion.dll
+C:\Users\marvinhlc\Desktop\USO Sistemas\Sistema de Registro Academico\Sesion\obj\Release\Sesion.pdb
+D:\Documentos\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\bin\Release\Sesion.dll
+D:\Documentos\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\bin\Release\Sesion.pdb
+D:\Documentos\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\bin\Release\MySql.Data.dll
+D:\Documentos\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\obj\Release\Sesion.dll
+D:\Documentos\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\obj\Release\Sesion.pdb
+D:\Documentos\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+C:\Users\marvinhlc\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\bin\Release\Sesion.dll
+C:\Users\marvinhlc\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\bin\Release\Sesion.pdb
+C:\Users\marvinhlc\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\bin\Release\MySql.Data.dll
+C:\Users\marvinhlc\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\obj\Release\Sesion.dll
+C:\Users\marvinhlc\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\obj\Release\Sesion.pdb
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\bin\Release\Sesion.dll
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\bin\Release\Sesion.pdb
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\bin\Release\MySql.Data.dll
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\obj\Release\Sesion.dll
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico\Sesion\obj\Release\Sesion.pdb
+C:\Users\marvinhlc\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\Sesion.dll
+C:\Users\marvinhlc\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\Sesion.pdb
+C:\Users\marvinhlc\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\MySql.Data.dll
+C:\Users\marvinhlc\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\obj\Release\Sesion.dll
+C:\Users\marvinhlc\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\obj\Release\Sesion.pdb
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\Sesion.dll
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\Sesion.pdb
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\MySql.Data.dll
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\obj\Release\Sesion.dll
+F:\JORGE\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\obj\Release\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\MySql.Data.dll
+D:\Documentos\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\obj\Release\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Proyectos Compartidos\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\obj\Release\Sesion.pdb
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\Sesion.dll
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\Sesion.pdb
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\bin\Release\MySql.Data.dll
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\obj\Release\Sesion.dll
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Registro Academico - CANDYCRUSH\Sesion\obj\Release\Sesion.pdb
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Sesion.dll
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Sesion.pdb
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\MySql.Data.dll
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Ripper.dll
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\DataLayer.dll
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Ripper.pdb
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\DataLayer.pdb
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.GUI.Splash.resources
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.dll
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.pdb
+D:\Marvin\Dropbox\J&M Desarrolladores\Proyectos\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.Properties.Resources.resources
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Sesion.dll
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Sesion.pdb
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\MySql.Data.dll
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Ripper.dll
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\DataLayer.dll
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Ripper.pdb
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\DataLayer.pdb
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.GUI.Splash.resources
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.Properties.Resources.resources
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.dll
+D:\Marvin\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.pdb
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Sesion.dll
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Sesion.pdb
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Ripper.dll
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\DataLayer.dll
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\Ripper.pdb
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\DataLayer.pdb
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.GUI.Splash.resources
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.Properties.Resources.resources
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.dll
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\obj\Release\Sesion.pdb
+E:\Marvin\Dropbox\Dropbox\USO\Sistema de Contabilidad y Presupuestos\Sesion\bin\Release\MySql.Data.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Release\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Release\Sesion.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Release\DataManager.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Release\MySql.Data.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Release\SharedDataPool.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Release\Herramientas.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Release\DataManager.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Release\SharedDataPool.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\bin\Release\Herramientas.pdb
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Release\Sesion.GUI.Splash.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Release\Sesion.Properties.Resources.resources
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Release\Sesion.dll
+D:\Documentos\Dropbox\Desarrollo\Compartidos\USO\Sistema de Gestion de Recursos Humanos\Sesion\obj\Release\Sesion.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Sesion.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Sesion.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\DataManager.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\MySql.Data.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\SharedDataPool.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Herramientas.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\DataManager.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\SharedDataPool.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Herramientas.pdb
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.GUI.Splash.resources
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.Properties.Resources.resources
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.dll
+C:\Users\ING. JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Sesion.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Sesion.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\DataManager.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\MySql.Data.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\SharedDataPool.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Herramientas.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\DataManager.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\SharedDataPool.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Herramientas.pdb
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.GUI.Splash.resources
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.Properties.Resources.resources
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.dll
+E:\JORGE\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Sesion.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Sesion.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\DataManager.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\MySql.Data.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\SharedDataPool.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Herramientas.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\DataManager.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\SharedDataPool.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\MySql.Data.xml
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\bin\Release\Herramientas.pdb
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.GUI.Splash.resources
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.Properties.Resources.resources
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.dll
+F:\JORGE\Nube\Google Drive\Desarrollos\AstraBusiness\Sesion\obj\Release\Sesion.pdb
+F:\MHSistemas\Pizzeria\Sesion\bin\Release\Sesion.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Release\Sesion.pdb
+F:\MHSistemas\Pizzeria\Sesion\bin\Release\DataManager.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Release\EntityManager.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Release\Herramientas.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Release\MySql.Data.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Release\DataManager.pdb
+F:\MHSistemas\Pizzeria\Sesion\bin\Release\EntityManager.pdb
+F:\MHSistemas\Pizzeria\Sesion\bin\Release\Herramientas.pdb
+F:\MHSistemas\Pizzeria\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+F:\MHSistemas\Pizzeria\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+F:\MHSistemas\Pizzeria\Sesion\obj\Release\Sesion.GUI.Splash.resources
+F:\MHSistemas\Pizzeria\Sesion\obj\Release\Sesion.Properties.Resources.resources
+F:\MHSistemas\Pizzeria\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+F:\MHSistemas\Pizzeria\Sesion\obj\Release\Sesion.dll
+F:\MHSistemas\Pizzeria\Sesion\obj\Release\Sesion.pdb
+F:\MHSistemas\Pizzeria\Sesion\bin\Release\ModelosManager.dll
+F:\MHSistemas\Pizzeria\Sesion\bin\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Release\Sesion.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Release\Sesion.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Release\EntityManager.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Release\MySql.Data.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Release\EntityManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\bin\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Release\Sesion.GUI.Splash.resources
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Release\Sesion.Properties.Resources.resources
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Release\Sesion.dll
+F:\Repositorios\MHInventario\MHInventario\Sesion\obj\Release\Sesion.pdb
+F:\Repositorios\MHInventario\Sesion\bin\Release\Sesion.dll
+F:\Repositorios\MHInventario\Sesion\bin\Release\Sesion.pdb
+F:\Repositorios\MHInventario\Sesion\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\Sesion\bin\Release\EntityManager.dll
+F:\Repositorios\MHInventario\Sesion\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\Sesion\bin\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\Sesion\bin\Release\MySql.Data.dll
+F:\Repositorios\MHInventario\Sesion\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\Sesion\bin\Release\EntityManager.pdb
+F:\Repositorios\MHInventario\Sesion\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\Sesion\bin\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+F:\Repositorios\MHInventario\Sesion\obj\Release\Sesion.GUI.Splash.resources
+F:\Repositorios\MHInventario\Sesion\obj\Release\Sesion.Properties.Resources.resources
+F:\Repositorios\MHInventario\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+F:\Repositorios\MHInventario\Sesion\obj\Release\Sesion.dll
+F:\Repositorios\MHInventario\Sesion\obj\Release\Sesion.pdb
+F:\Repositorios\MHInventario\Sesion\bin\Release\Sesion.dll.config
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\Sesion.dll
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\MySql.Data.dll
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+F:\Sistemas\Externos\MHInventario\Sesion\obj\Release\Sesion.GUI.Splash.resources
+F:\Sistemas\Externos\MHInventario\Sesion\obj\Release\Sesion.Properties.Resources.resources
+F:\Sistemas\Externos\MHInventario\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario\Sesion\obj\Release\Sesion.dll
+F:\Sistemas\Externos\MHInventario\Sesion\obj\Release\Sesion.pdb
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario\Sesion\bin\Release\MySql.Data.xml
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\Sesion.dll
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\Sesion.pdb
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\DataManager.dll
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\EntityManager.dll
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\Herramientas.dll
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\ModelosManager.dll
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\MySql.Data.dll
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\Portable.dll
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\DataManager.pdb
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\EntityManager.pdb
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\Herramientas.pdb
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\ModelosManager.pdb
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\Portable.pdb
+C:\MHSistemas\MHInventarioPO\Sesion\bin\Release\MySql.Data.xml
+C:\MHSistemas\MHInventarioPO\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+C:\MHSistemas\MHInventarioPO\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+C:\MHSistemas\MHInventarioPO\Sesion\obj\Release\Sesion.GUI.Splash.resources
+C:\MHSistemas\MHInventarioPO\Sesion\obj\Release\Sesion.Properties.Resources.resources
+C:\MHSistemas\MHInventarioPO\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+C:\MHSistemas\MHInventarioPO\Sesion\obj\Release\Sesion.dll
+C:\MHSistemas\MHInventarioPO\Sesion\obj\Release\Sesion.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\obj\Release\Sesion.GUI.Splash.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\obj\Release\Sesion.Properties.Resources.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\Sesion.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\bin\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\obj\Release\Sesion.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\Sesion\obj\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\obj\Release\Sesion.GUI.Configuracion.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\obj\Release\Sesion.GUI.Splash.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\obj\Release\Sesion.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\obj\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Sesion\obj\Release\Sesion.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\Sesion.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\Sesion.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\DataManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\EntityManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\Herramientas.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\ModelosManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\Portable.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\DataManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\EntityManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\Herramientas.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\ModelosManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\bin\Release\Portable.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\obj\Release\Sesion.GUI.Configuracion.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\obj\Release\Sesion.GUI.Splash.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\obj\Release\Sesion.Properties.Resources.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\obj\Release\Sesion.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Sesion\obj\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\obj\Release\Sesion.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\obj\Release\Sesion.GUI.Configuracion.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\obj\Release\Sesion.GUI.frmLogin.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\obj\Release\Sesion.GUI.Splash.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\obj\Release\Sesion.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\obj\Release\Sesion.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\obj\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Sesion\obj\Release\Sesion.pdb

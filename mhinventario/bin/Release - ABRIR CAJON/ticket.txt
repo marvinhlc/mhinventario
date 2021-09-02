@@ -1,0 +1,19 @@
+
+
+      BASAR JUANITA GARCIA
+      31/10/2019 09:59:16
+================================
+ABACOS
+                     10 x 3 = 30
+================================
+        SUBTOTAL EXCENTO: 0.0000
+       SUBTOTAL GRAVADO: 30.0000
+               TOTAL IVA: 0.0000
+            TOTAL VENTA: 30.0000
+               FECHA: 10-31-2019
+                 TICKET #: 10867
+               No. ARTICULOS: 10
+
+    ¡GRACIAS POR SU COMPRA!
+
+

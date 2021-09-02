@@ -1,0 +1,11 @@
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Debug\ModelosManager.dll
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Debug\ModelosManager.pdb
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Debug\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Debug\EntityManager.dll
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Debug\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Debug\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Debug\EntityManager.pdb
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Debug\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\obj\Debug\ModelosManager.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\obj\Debug\ModelosManager.dll
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\obj\Debug\ModelosManager.pdb

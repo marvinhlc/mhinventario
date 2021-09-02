@@ -1,0 +1,101 @@
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Release\EntityManager.dll
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Release\EntityManager.pdb
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\obj\Release\ModelosManager.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\obj\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\MHInventario\ModelosManager\obj\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\ModelosManager\bin\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\ModelosManager\bin\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\ModelosManager\bin\Release\DataManager.dll
+F:\Repositorios\MHInventario\ModelosManager\bin\Release\EntityManager.dll
+F:\Repositorios\MHInventario\ModelosManager\bin\Release\Herramientas.dll
+F:\Repositorios\MHInventario\ModelosManager\bin\Release\DataManager.pdb
+F:\Repositorios\MHInventario\ModelosManager\bin\Release\EntityManager.pdb
+F:\Repositorios\MHInventario\ModelosManager\bin\Release\Herramientas.pdb
+F:\Repositorios\MHInventario\ModelosManager\obj\Release\ModelosManager.csprojResolveAssemblyReference.cache
+F:\Repositorios\MHInventario\ModelosManager\obj\Release\ModelosManager.dll
+F:\Repositorios\MHInventario\ModelosManager\obj\Release\ModelosManager.pdb
+F:\Repositorios\MHInventario\ModelosManager\bin\Release\ModelosManager.dll.config
+F:\Sistemas\Externos\MHInventario\ModelosManager\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario\ModelosManager\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario\ModelosManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario\ModelosManager\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\MHInventario\ModelosManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario\ModelosManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario\ModelosManager\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\MHInventario\ModelosManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario\ModelosManager\obj\Release\ModelosManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario\ModelosManager\obj\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario\ModelosManager\obj\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario\ModelosManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario\ModelosManager\bin\Release\Portable.pdb
+C:\MHSistemas\MHInventarioPO\ModelosManager\bin\Release\ModelosManager.dll
+C:\MHSistemas\MHInventarioPO\ModelosManager\bin\Release\ModelosManager.pdb
+C:\MHSistemas\MHInventarioPO\ModelosManager\bin\Release\DataManager.dll
+C:\MHSistemas\MHInventarioPO\ModelosManager\bin\Release\EntityManager.dll
+C:\MHSistemas\MHInventarioPO\ModelosManager\bin\Release\Herramientas.dll
+C:\MHSistemas\MHInventarioPO\ModelosManager\bin\Release\Portable.dll
+C:\MHSistemas\MHInventarioPO\ModelosManager\bin\Release\DataManager.pdb
+C:\MHSistemas\MHInventarioPO\ModelosManager\bin\Release\EntityManager.pdb
+C:\MHSistemas\MHInventarioPO\ModelosManager\bin\Release\Herramientas.pdb
+C:\MHSistemas\MHInventarioPO\ModelosManager\bin\Release\Portable.pdb
+C:\MHSistemas\MHInventarioPO\ModelosManager\obj\Release\ModelosManager.csprojResolveAssemblyReference.cache
+C:\MHSistemas\MHInventarioPO\ModelosManager\obj\Release\ModelosManager.dll
+C:\MHSistemas\MHInventarioPO\ModelosManager\obj\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\obj\Release\ModelosManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\bin\Release\Portable.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\obj\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario POTENCIADO\ModelosManager\obj\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\obj\Release\ModelosManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\obj\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\ModelosManager\obj\Release\ModelosManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\bin\Release\ModelosManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\bin\Release\ModelosManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\bin\Release\DataManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\bin\Release\EntityManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\bin\Release\Herramientas.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\bin\Release\Portable.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\bin\Release\DataManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\bin\Release\EntityManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\bin\Release\Herramientas.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\bin\Release\Portable.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\obj\Release\ModelosManager.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\obj\Release\ModelosManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\ModelosManager\obj\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\obj\Release\ModelosManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\obj\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\ModelosManager\obj\Release\ModelosManager.pdb

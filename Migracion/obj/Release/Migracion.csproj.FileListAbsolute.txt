@@ -1,0 +1,57 @@
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\obj\Release\Migracion.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\obj\Release\Migracion.Migrador.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\obj\Release\Migracion.MigradorExcel.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\obj\Release\Migracion.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\obj\Release\Migracion.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\Migracion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\Migracion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\obj\Release\Migracion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Migracion\obj\Release\Migracion.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\Migracion.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\Migracion.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\DataManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\EntityManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\Herramientas.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\ModelosManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\Portable.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\DataManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\EntityManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\Herramientas.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\ModelosManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\bin\Release\Portable.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\obj\Release\Migracion.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\obj\Release\Migracion.Migrador.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\obj\Release\Migracion.MigradorExcel.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\obj\Release\Migracion.Properties.Resources.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\obj\Release\Migracion.csproj.GenerateResource.Cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\obj\Release\Migracion.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Migracion\obj\Release\Migracion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\Migracion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\Migracion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\obj\Release\Migracion.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\obj\Release\Migracion.Migrador.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\obj\Release\Migracion.MigradorExcel.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\obj\Release\Migracion.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\obj\Release\Migracion.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\obj\Release\Migracion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Migracion\obj\Release\Migracion.pdb

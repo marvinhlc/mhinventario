@@ -1,0 +1,99 @@
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\obj\Release\Backup.csprojResolveAssemblyReference.cache
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\obj\Release\Backup.HacerBackup.resources
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\obj\Release\Backup.Properties.Resources.resources
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\obj\Release\Backup.csproj.GenerateResource.Cache
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\Backup.dll.config
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\Backup.dll
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\Backup.pdb
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\MySqlBackup.dll
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\Sesion.dll
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\EntityManager.dll
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\Portable.dll
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\Herramientas.dll
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\DataManager.dll
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\ModelosManager.dll
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\MySqlBackup.pdb
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\Sesion.pdb
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\EntityManager.pdb
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\Portable.pdb
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\Herramientas.pdb
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\DataManager.pdb
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\bin\Release\ModelosManager.pdb
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\obj\Release\Backup.dll
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\obj\Release\Backup.pdb
+D:\MarvinDeveloper\Sistemas\Externos\Melvin\Sistema\MHFinanciera\Backup\obj\Release\Backup.RestaurarBackup.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\obj\Release\Backup.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\obj\Release\Backup.CadenasConexion.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\obj\Release\Backup.HacerBackup.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\obj\Release\Backup.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\obj\Release\Backup.RestaurarBackup.resources
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\obj\Release\Backup.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\Backup.dll.config
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\Backup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\Backup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\MySqlBackup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\MySqlBackup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\obj\Release\Backup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Sistema\Backup\obj\Release\Backup.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\obj\Release\Backup.csprojResolveAssemblyReference.cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\obj\Release\Backup.CadenasConexion.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\obj\Release\Backup.HacerBackup.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\obj\Release\Backup.Properties.Resources.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\obj\Release\Backup.RestaurarBackup.resources
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\obj\Release\Backup.csproj.GenerateResource.Cache
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\obj\Release\Backup.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\obj\Release\Backup.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\Backup.dll.config
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\Backup.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\Backup.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\Herramientas.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\MySqlBackup.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\Sesion.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\EntityManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\DataManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\Portable.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\ModelosManager.dll
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\Herramientas.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\MySqlBackup.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\Sesion.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\EntityManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\DataManager.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\Portable.pdb
+C:\Users\fabri\Documents\Visual Studio 2012\Projects\juanita-garcia\Backup\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\Backup.dll.config
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\Backup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\Backup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\MySqlBackup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\Sesion.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\DataManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\Portable.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\MySqlBackup.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\Sesion.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\Portable.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\obj\Release\Backup.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\obj\Release\Backup.CadenasConexion.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\obj\Release\Backup.HacerBackup.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\obj\Release\Backup.Properties.Resources.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\obj\Release\Backup.RestaurarBackup.resources
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\obj\Release\Backup.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\obj\Release\Backup.dll
+F:\Sistemas\Externos\JuanitaGarcia\Github\juanita-garcia\Backup\obj\Release\Backup.pdb

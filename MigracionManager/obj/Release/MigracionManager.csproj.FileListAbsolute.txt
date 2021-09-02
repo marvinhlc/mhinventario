@@ -1,0 +1,41 @@
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\MigracionManager.dll
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\MigracionManager.pdb
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\Estilos.dll
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\Estilos.pdb
+F:\Sistemas\Externos\MHInventario\MigracionManager\obj\Release\MigracionManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario\MigracionManager\obj\Release\MigracionManager.UI.MigrarRegistros.resources
+F:\Sistemas\Externos\MHInventario\MigracionManager\obj\Release\MigracionManager.csproj.GenerateResource.Cache
+F:\Sistemas\Externos\MHInventario\MigracionManager\obj\Release\MigracionManager.dll
+F:\Sistemas\Externos\MHInventario\MigracionManager\obj\Release\MigracionManager.pdb
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\ModelosManager.dll
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\EntityManager.dll
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\DataManager.dll
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\Herramientas.dll
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\Portable.dll
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\ModelosManager.pdb
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\EntityManager.pdb
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\DataManager.pdb
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\Herramientas.pdb
+F:\Sistemas\Externos\MHInventario\MigracionManager\bin\Release\Portable.pdb
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\MigracionManager.dll
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\MigracionManager.pdb
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\Estilos.dll
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\ModelosManager.dll
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\EntityManager.dll
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\DataManager.dll
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\Herramientas.dll
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\Portable.dll
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\Estilos.pdb
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\ModelosManager.pdb
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\EntityManager.pdb
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\DataManager.pdb
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\Herramientas.pdb
+C:\MHSistemas\MHInventarioPO\MigracionManager\bin\Release\Portable.pdb
+C:\MHSistemas\MHInventarioPO\MigracionManager\obj\Release\MigracionManager.csprojResolveAssemblyReference.cache
+C:\MHSistemas\MHInventarioPO\MigracionManager\obj\Release\MigracionManager.UI.MigrarRegistros.resources
+C:\MHSistemas\MHInventarioPO\MigracionManager\obj\Release\MigracionManager.csproj.GenerateResource.Cache
+C:\MHSistemas\MHInventarioPO\MigracionManager\obj\Release\MigracionManager.dll
+C:\MHSistemas\MHInventarioPO\MigracionManager\obj\Release\MigracionManager.pdb
+F:\Sistemas\Externos\MHInventario POTENCIADO\MigracionManager\obj\Release\MigracionManager.csprojResolveAssemblyReference.cache
+F:\Sistemas\Externos\MHInventario POTENCIADO\MigracionManager\obj\Release\MigracionManager.UI.MigrarRegistros.resources
+F:\Sistemas\Externos\MHInventario POTENCIADO\MigracionManager\obj\Release\MigracionManager.csproj.GenerateResource.Cache

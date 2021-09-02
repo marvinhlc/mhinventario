@@ -1,0 +1,56 @@
+-- MySQL Administrator dump 1.4
+--
+-- ------------------------------------------------------
+-- Server version	5.7.18-log
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+
+
+--
+-- Create schema jgdb
+--
+
+CREATE DATABASE IF NOT EXISTS jgdb;
+USE jgdb;
+
+--
+-- Definition of table `documentos_ordenes`
+--
+
+DROP TABLE IF EXISTS `documentos_ordenes`;
+CREATE TABLE `documentos_ordenes` (
+  `IDRelacion` int(11) NOT NULL AUTO_INCREMENT,
+  `IDDocumento` int(11) DEFAULT '0',
+  `IDOrden` int(11) DEFAULT '0',
+  `FechaHora` timestamp NULL DEFAULT CURRENT_TIMESTAMP,
+  PRIMARY KEY (`IDRelacion`),
+  UNIQUE KEY `IDDocumento` (`IDDocumento`,`IDOrden`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `documentos_ordenes`
+--
+
+/*!40000 ALTER TABLE `documentos_ordenes` DISABLE KEYS */;
+INSERT INTO `documentos_ordenes` (`IDRelacion`,`IDDocumento`,`IDOrden`,`FechaHora`) VALUES 
+ (1,1028,20,'2019-04-25 11:06:38');
+/*!40000 ALTER TABLE `documentos_ordenes` ENABLE KEYS */;
+
+
+
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
